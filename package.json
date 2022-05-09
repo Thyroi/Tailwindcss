@@ -1,0 +1,24 @@
+{
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "description": "Learning Css",
+  "scripts": {
+    "start": "tailwindcss -o ./build/css/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thyroi/Tailwindcss.git"
+  },
+  "keywords": [],
+  "author": "Juan Salgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thyroi/Tailwindcss/issues"
+  },
+  "homepage": "https://github.com/Thyroi/Tailwindcss#readme",
+  "devDependencies": {
+    "@tailwindcss/jit": "^0.1.18",
+    "postcss": "^8.4.13",
+    "tailwindcss": "^2.2.19"
+  }
+}
